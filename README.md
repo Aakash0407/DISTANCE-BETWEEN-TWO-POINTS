@@ -8,7 +8,8 @@ Import math
 ### Step 2: 
 Input l1,l2
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  
+![formula](/formula.JPG)
 ### Step 4: 
 Distance = math.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
 ### Step 5: 
